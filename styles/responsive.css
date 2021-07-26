@@ -1,0 +1,171 @@
+@media (min-width: 320px) and (max-width: 410px) {
+  /*********************FORM*/
+  .formContainer {
+    margin: 0 0 4rem 0;
+  }
+  .formContainer h2 {
+    font-size: 1.5rem;
+  }
+  .formButton {
+    text-align: center;
+  }
+}
+
+@media (min-width: 411px) and (max-width: 479px) {
+  /*********************FORM*/
+  .formContainer {
+    margin: 0 0 4rem 0;
+  }
+  .paddingForm {
+    padding: 0 3rem;
+  }
+  .termos-condicoes {
+    padding: 1.5rem 0;
+  }
+  .formButton {
+    text-align: center;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+  /*********************FORM*/
+  .formContainer {
+    margin: 0 0 4rem 0;
+  }
+  .formContainer h1 {
+    font-size: 1.9rem;
+  }
+  .formContainer h2 {
+    font-size: 1.8rem;
+  }
+  .formButton {
+    text-align: center;
+  }
+  .paddingForm {
+    margin: 0 3rem;
+  }
+  .termos-condicoes {
+    padding: 1.5rem 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .imgHeader img {
+    width: 92%;
+  }
+  .topBanner {
+    margin-top: 79px;
+  }
+  .topBannertxt {
+    font-size: 2.3rem;
+  }
+  .imgtopBanner {
+    margin: 2rem 0 7rem 0;
+  }
+  .formContainer h1 {
+    font-size: 1.1rem;
+  }
+  .formContainer h2 {
+    font-size: 1rem;
+  }
+  .termos-condicoes {
+    font-size: 0.6rem;
+  }
+  .btn_enviar {
+    font-size: 0.85rem;
+    padding: 0.8rem;
+  }
+  .ctaRosa {
+    font-size: 0.8rem;
+    padding: 1rem;
+  }
+  .wrapperBox {
+    min-height: 17rem;
+    padding: 1.5rem;
+  }
+
+  .wrapperBox3 {
+    margin-bottom: 1rem;
+    min-height: 16rem;
+  }
+  h2.titLista {
+    padding: 0.5rem 0 0 2rem;
+    font-size: 0.92rem;
+  }
+  ul.ListaBox3 {
+    font-size: 0.8rem;
+  }
+  .marginsubtit {
+    margin: 0.6rem;
+  }
+  /**SECTION3*/
+  .Section3ContentLeft,
+  .Section3ContentRight {
+    min-height: 27rem;
+  }
+  .Section3ContentLeftTxt {
+    padding: 0;
+  }
+  .Section3ContentLeftTxt h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Section3ContentLeftTxt h2 {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  .Section3ContentRightTxt1 {
+    margin-bottom: 2rem;
+  }
+  .Section3ContentRightTxt1 h1,
+  .Section3ContentRightTxt2 h1 {
+    font-size: 1.4rem;
+  }
+  .statement3txt {
+    font-size: 2.1rem;
+    line-height: 2.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .Section3ContentRightTxt2 h2 {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+  }
+  .box2Preco {
+    font-size: 1.2rem;
+  }
+  ul.ListaBox2 {
+    font-size: 0.8rem;
+  }
+  .wrapperBox2 {
+    padding: 1.5rem 0.5rem;
+  }
+  .box2Subtit {
+    font-size: 0.8rem;
+  }
+  .Section3ContentLeft {
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .obrigadotxt {
+    padding: 19rem 0;
+    text-align: center;
+    color: #fff;
+  }
+  .wrapperBox4 {
+    margin-bottom: 1.6rem;
+    min-height: 14rem;
+  }
+  .section6 {
+    padding: 2rem 0 4rem 0;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .formContainer h1 {
+    font-size: 1.2rem;
+  }
+  .formContainer h2 {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,2031 @@
+2020-10-16T21:24:35: PM2 log: ===============================================================================
+2020-10-16T21:24:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-10-16T21:24:35: PM2 log: Time                 : Fri Oct 16 2020 21:24:35 GMT+0100 (Western European Summer Time)
+2020-10-16T21:24:35: PM2 log: PM2 version          : 4.5.0
+2020-10-16T21:24:35: PM2 log: Node.js version      : 12.19.0
+2020-10-16T21:24:35: PM2 log: Current arch         : x64
+2020-10-16T21:24:35: PM2 log: PM2 home             : y
+2020-10-16T21:24:35: PM2 log: PM2 PID file         : C:\Users\Video\projectos\comparador_nextjs\y\pm2.pid
+2020-10-16T21:24:35: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2020-10-16T21:24:35: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2020-10-16T21:24:35: PM2 log: Application log path : C:\Users\Video\projectos\comparador_nextjs\y\logs
+2020-10-16T21:24:35: PM2 log: Worker Interval      : 30000
+2020-10-16T21:24:35: PM2 log: Process dump file    : C:\Users\Video\projectos\comparador_nextjs\y\dump.pm2
+2020-10-16T21:24:35: PM2 log: Concurrent actions   : 2
+2020-10-16T21:24:35: PM2 log: SIGTERM timeout      : 1600
+2020-10-16T21:24:35: PM2 log: ===============================================================================
+2020-10-16T21:39:40: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:40: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 error: Error caught while calling pidusage
+2020-10-16T21:39:41: PM2 error: Error: No matching pid found
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 error: Error caught while calling pidusage
+2020-10-16T21:39:41: PM2 error: Error: No matching pid found
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 error: Error caught while calling pidusage
+2020-10-16T21:39:41: PM2 error: Error: No matching pid found
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:41: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:41: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:41: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:42: PM2 log: App [npm:0] online
+2020-10-16T21:39:42: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:42: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:43: PM2 log: App [npm:0] online
+2020-10-16T21:39:43: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:47: PM2 error: Error caught while calling pidusage
+2020-10-16T21:39:47: PM2 error: Error: No matching pid found
+2020-10-16T21:39:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:47: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:47: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:48: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:48: PM2 log: App [npm:0] online
+2020-10-16T21:39:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:49: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:49: PM2 log: App [npm:0] online
+2020-10-16T21:39:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:49: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:39:49: PM2 log: App [npm:0] online
+2020-10-16T21:39:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:39:49: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:40:07: PM2 log: Stopping app:npm id:0
+2020-10-16T21:40:07: PM2 error: app=npm id=0 does not have a pid
+2020-10-16T21:40:07: PM2 log: PM2 successfully stopped
+2020-10-16T21:40:10: PM2 log: ===============================================================================
+2020-10-16T21:40:10: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-10-16T21:40:10: PM2 log: Time                 : Fri Oct 16 2020 21:40:10 GMT+0100 (Western European Summer Time)
+2020-10-16T21:40:10: PM2 log: PM2 version          : 4.5.0
+2020-10-16T21:40:10: PM2 log: Node.js version      : 12.19.0
+2020-10-16T21:40:10: PM2 log: Current arch         : x64
+2020-10-16T21:40:10: PM2 log: PM2 home             : y
+2020-10-16T21:40:10: PM2 log: PM2 PID file         : C:\Users\Video\projectos\comparador_nextjs\y\pm2.pid
+2020-10-16T21:40:10: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2020-10-16T21:40:10: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2020-10-16T21:40:10: PM2 log: Application log path : C:\Users\Video\projectos\comparador_nextjs\y\logs
+2020-10-16T21:40:10: PM2 log: Worker Interval      : 30000
+2020-10-16T21:40:10: PM2 log: Process dump file    : C:\Users\Video\projectos\comparador_nextjs\y\dump.pm2
+2020-10-16T21:40:10: PM2 log: Concurrent actions   : 2
+2020-10-16T21:40:10: PM2 log: SIGTERM timeout      : 1600
+2020-10-16T21:40:10: PM2 log: ===============================================================================
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:10: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:10: PM2 error: Error caught while calling pidusage
+2020-10-16T21:40:10: PM2 error: Error: No matching pid found
+2020-10-16T21:40:10: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:10: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:10: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:10: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:10: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:10: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:10: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:11: PM2 log: App [npm:0] online
+2020-10-16T21:40:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:12: PM2 log: App [npm:0] online
+2020-10-16T21:40:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:40:12: PM2 log: App [npm:0] online
+2020-10-16T21:40:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:40:12: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:42:25: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:25: PM2 log: App [npm:0] online
+2020-10-16T21:42:25: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:25: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:25: PM2 log: App [npm:0] online
+2020-10-16T21:42:25: PM2 error: Error caught while calling pidusage
+2020-10-16T21:42:25: PM2 error: Error: No matching pid found
+2020-10-16T21:42:25: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:25: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:25: PM2 log: App [npm:0] online
+2020-10-16T21:42:25: PM2 error: Error caught while calling pidusage
+2020-10-16T21:42:25: PM2 error: Error: No matching pid found
+2020-10-16T21:42:25: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:25: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:25: PM2 log: App [npm:0] online
+2020-10-16T21:42:25: PM2 error: Error caught while calling pidusage
+2020-10-16T21:42:25: PM2 error: Error: No matching pid found
+2020-10-16T21:42:25: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:25: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:25: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:26: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:26: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:26: PM2 log: App [npm:0] online
+2020-10-16T21:42:27: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:27: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:27: PM2 log: App [npm:0] online
+2020-10-16T21:42:27: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:27: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:27: PM2 log: App [npm:0] online
+2020-10-16T21:42:27: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:27: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:27: PM2 log: App [npm:0] online
+2020-10-16T21:42:27: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:27: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:42:27: PM2 log: App [npm:0] online
+2020-10-16T21:42:27: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:42:27: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:43:01: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:01: PM2 log: App [npm:0] online
+2020-10-16T21:43:01: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:01: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:01: PM2 log: App [npm:0] online
+2020-10-16T21:43:01: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:01: PM2 error: Error: No matching pid found
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:02: PM2 error: Error: No matching pid found
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:02: PM2 error: Error: No matching pid found
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:02: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:02: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:03: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:03: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:03: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:03: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:03: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:03: PM2 log: App [npm:0] online
+2020-10-16T21:43:03: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:03: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:43:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:11: PM2 log: App [npm:0] online
+2020-10-16T21:43:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:11: PM2 log: App [npm:0] online
+2020-10-16T21:43:11: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:11: PM2 error: Error: No matching pid found
+2020-10-16T21:43:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:11: PM2 log: App [npm:0] online
+2020-10-16T21:43:11: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:11: PM2 error: Error: No matching pid found
+2020-10-16T21:43:11: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:11: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:11: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:12: PM2 error: Error: No matching pid found
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:12: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:12: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:12: PM2 log: App [npm:0] online
+2020-10-16T21:43:13: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:13: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:13: PM2 log: App [npm:0] online
+2020-10-16T21:43:13: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:13: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:13: PM2 log: App [npm:0] online
+2020-10-16T21:43:13: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:13: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:13: PM2 log: App [npm:0] online
+2020-10-16T21:43:13: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:13: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:13: PM2 log: App [npm:0] online
+2020-10-16T21:43:13: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:13: PM2 log: App [npm:0] starting in -fork mode-
+2020-10-16T21:43:13: PM2 log: App [npm:0] online
+2020-10-16T21:43:13: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:13: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:43:17: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:17: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:18: PM2 error: Error: No matching pid found
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:18: PM2 error: Error: No matching pid found
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 error: Error caught while calling pidusage
+2020-10-16T21:43:18: PM2 error: Error: No matching pid found
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:18: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:18: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:18: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:19: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:19: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:19: PM2 log: App [app name:0] online
+2020-10-16T21:43:20: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:20: PM2 log: App [app name:0] starting in -fork mode-
+2020-10-16T21:43:20: PM2 log: App [app name:0] online
+2020-10-16T21:43:20: PM2 log: App [app name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:43:20: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:43:24: PM2 log: Stopping app:app name id:0
+2020-10-16T21:43:24: PM2 error: app=app name id=0 does not have a pid
+2020-10-16T21:43:24: PM2 log: PM2 successfully stopped
+2020-10-16T21:44:01: PM2 log: ===============================================================================
+2020-10-16T21:44:01: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-10-16T21:44:01: PM2 log: Time                 : Fri Oct 16 2020 21:44:01 GMT+0100 (Western European Summer Time)
+2020-10-16T21:44:01: PM2 log: PM2 version          : 4.5.0
+2020-10-16T21:44:01: PM2 log: Node.js version      : 12.19.0
+2020-10-16T21:44:01: PM2 log: Current arch         : x64
+2020-10-16T21:44:01: PM2 log: PM2 home             : y
+2020-10-16T21:44:01: PM2 log: PM2 PID file         : C:\Users\Video\projectos\comparador_nextjs\y\pm2.pid
+2020-10-16T21:44:01: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2020-10-16T21:44:01: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2020-10-16T21:44:01: PM2 log: Application log path : C:\Users\Video\projectos\comparador_nextjs\y\logs
+2020-10-16T21:44:01: PM2 log: Worker Interval      : 30000
+2020-10-16T21:44:01: PM2 log: Process dump file    : C:\Users\Video\projectos\comparador_nextjs\y\dump.pm2
+2020-10-16T21:44:01: PM2 log: Concurrent actions   : 2
+2020-10-16T21:44:01: PM2 log: SIGTERM timeout      : 1600
+2020-10-16T21:44:01: PM2 log: ===============================================================================
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:00: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:00: PM2 error: Error: No matching pid found
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:00: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:00: PM2 error: Error: No matching pid found
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:00: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:00: PM2 error: Error: No matching pid found
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:00: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:01: PM2 error: Error: No matching pid found
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:01: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] starting in -fork mode-
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] online
+2020-10-16T21:47:02: PM2 log: App [my-app-name:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:02: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:06: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:06: PM2 error: Error: No matching pid found
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:06: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:06: PM2 error: Error: No matching pid found
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:06: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:06: PM2 error: Error: No matching pid found
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:06: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:07: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:08: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:08: PM2 log: App [my-app-name:1] starting in -fork mode-
+2020-10-16T21:47:08: PM2 log: App [my-app-name:1] online
+2020-10-16T21:47:08: PM2 log: App [my-app-name:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:08: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:12: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:12: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:13: PM2 error: Error: No matching pid found
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:13: PM2 error: Error: No matching pid found
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:13: PM2 error: Error: No matching pid found
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:13: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] starting in -fork mode-
+2020-10-16T21:47:14: PM2 log: App [my-app-name:2] online
+2020-10-16T21:47:15: PM2 log: App [my-app-name:2] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:15: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:19: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:19: PM2 error: Error: No matching pid found
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:19: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:19: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:19: PM2 error: Error: No matching pid found
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:20: PM2 error: Error: No matching pid found
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:20: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] starting in -fork mode-
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] online
+2020-10-16T21:47:21: PM2 log: App [my-app-name:3] exited with code [1] via signal [SIGINT]
+2020-10-16T21:47:21: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:27: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:4] online
+2020-10-16T21:47:27: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:5] online
+2020-10-16T21:47:27: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:6] online
+2020-10-16T21:47:27: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:4] online
+2020-10-16T21:47:27: PM2 log: App [AppName:7] online
+2020-10-16T21:47:27: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:5] online
+2020-10-16T21:47:27: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:8] online
+2020-10-16T21:47:27: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:6] online
+2020-10-16T21:47:27: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:9] online
+2020-10-16T21:47:27: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:4] online
+2020-10-16T21:47:27: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:7] online
+2020-10-16T21:47:27: PM2 log: App [AppName:10] online
+2020-10-16T21:47:27: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:5] online
+2020-10-16T21:47:27: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App [AppName:8] online
+2020-10-16T21:47:27: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:11] online
+2020-10-16T21:47:27: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:27: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:27: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:27: PM2 log: App [AppName:6] online
+2020-10-16T21:47:27: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:9] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:4] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:7] online
+2020-10-16T21:47:28: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:10] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:8] online
+2020-10-16T21:47:28: PM2 log: App [AppName:5] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:11] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:6] online
+2020-10-16T21:47:28: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:28: PM2 error: Error: No matching pid found
+2020-10-16T21:47:28: PM2 log: App [AppName:9] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:28: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:4] online
+2020-10-16T21:47:28: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:7] online
+2020-10-16T21:47:28: PM2 log: App [AppName:10] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:8] online
+2020-10-16T21:47:28: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:28: PM2 error: Error: No matching pid found
+2020-10-16T21:47:28: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:5] online
+2020-10-16T21:47:28: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:11] online
+2020-10-16T21:47:28: PM2 log: App [AppName:6] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:28: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:4] online
+2020-10-16T21:47:28: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:9] online
+2020-10-16T21:47:28: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:7] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:10] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:8] online
+2020-10-16T21:47:28: PM2 log: App [AppName:5] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:11] online
+2020-10-16T21:47:28: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:6] online
+2020-10-16T21:47:28: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:28: PM2 error: Error: No matching pid found
+2020-10-16T21:47:28: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:9] online
+2020-10-16T21:47:28: PM2 log: App [AppName:4] online
+2020-10-16T21:47:28: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:7] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:10] online
+2020-10-16T21:47:28: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:28: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:28: PM2 log: App [AppName:8] online
+2020-10-16T21:47:28: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:28: PM2 log: App [AppName:5] online
+2020-10-16T21:47:29: PM2 log: App [AppName:11] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:29: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:6] online
+2020-10-16T21:47:29: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:9] online
+2020-10-16T21:47:29: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:4] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:7] online
+2020-10-16T21:47:29: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:10] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:8] online
+2020-10-16T21:47:29: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:5] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:11] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:6] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:9] online
+2020-10-16T21:47:29: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:4] online
+2020-10-16T21:47:29: PM2 log: App [AppName:7] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:10] online
+2020-10-16T21:47:29: PM2 log: App [AppName:8] online
+2020-10-16T21:47:29: PM2 log: App [AppName:5] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:11] online
+2020-10-16T21:47:29: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:6] online
+2020-10-16T21:47:29: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:9] online
+2020-10-16T21:47:29: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:4] online
+2020-10-16T21:47:29: PM2 log: App [AppName:7] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:10] online
+2020-10-16T21:47:29: PM2 log: App [AppName:8] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:5] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:11] online
+2020-10-16T21:47:29: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:6] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:9] online
+2020-10-16T21:47:29: PM2 log: App [AppName:4] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:7] online
+2020-10-16T21:47:29: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:29: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:29: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:29: PM2 log: App [AppName:10] online
+2020-10-16T21:47:29: PM2 log: App [AppName:8] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:5] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:11] online
+2020-10-16T21:47:30: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:9] online
+2020-10-16T21:47:30: PM2 log: App [AppName:6] online
+2020-10-16T21:47:30: PM2 log: App [AppName:4] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:30: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:7] online
+2020-10-16T21:47:30: PM2 log: App [AppName:10] online
+2020-10-16T21:47:30: PM2 log: App [AppName:8] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:5] online
+2020-10-16T21:47:30: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:11] online
+2020-10-16T21:47:30: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:30: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:9] online
+2020-10-16T21:47:30: PM2 log: App [AppName:6] online
+2020-10-16T21:47:30: PM2 log: App [AppName:4] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:7] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:10] online
+2020-10-16T21:47:30: PM2 log: App [AppName:8] online
+2020-10-16T21:47:30: PM2 log: App [AppName:5] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:11] online
+2020-10-16T21:47:30: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:9] online
+2020-10-16T21:47:30: PM2 log: App [AppName:6] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:4] online
+2020-10-16T21:47:30: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:7] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:10] online
+2020-10-16T21:47:30: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:8] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:5] online
+2020-10-16T21:47:30: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:11] online
+2020-10-16T21:47:30: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:9] online
+2020-10-16T21:47:30: PM2 log: App [AppName:6] online
+2020-10-16T21:47:30: PM2 log: App [AppName:4] online
+2020-10-16T21:47:30: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:30: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:30: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:30: PM2 log: App [AppName:7] online
+2020-10-16T21:47:31: PM2 log: App [AppName:10] online
+2020-10-16T21:47:31: PM2 log: App [AppName:8] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:5] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:4] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:11] online
+2020-10-16T21:47:31: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:9] online
+2020-10-16T21:47:31: PM2 log: App [AppName:6] online
+2020-10-16T21:47:31: PM2 log: App [AppName:4] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:5] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:7] online
+2020-10-16T21:47:31: PM2 log: App [AppName:10] online
+2020-10-16T21:47:31: PM2 log: App [AppName:8] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:5] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:6] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:4 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:4] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:11] online
+2020-10-16T21:47:31: PM2 log: App [AppName:7] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:9] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:8] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:6] online
+2020-10-16T21:47:31: PM2 log: App [AppName:7] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:5 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:5] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App [AppName:10] online
+2020-10-16T21:47:31: PM2 log: App [AppName:8] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:9] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App name:AppName id:6 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:6] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App [AppName:11] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:7 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:7] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:10] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 log: App [AppName:9] online
+2020-10-16T21:47:31: PM2 log: App [AppName:8] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App name:AppName id:8 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:10] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: App [AppName:11] starting in -cluster mode-
+2020-10-16T21:47:31: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:31: PM2 error: Error: No matching pid found
+2020-10-16T21:47:31: PM2 log: App name:AppName id:9 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:9] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App [AppName:11] online
+2020-10-16T21:47:31: PM2 log: App name:AppName id:10 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:10] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:31: PM2 log: App name:AppName id:11 disconnected
+2020-10-16T21:47:31: PM2 log: App [AppName:11] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:31: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:39: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:12] online
+2020-10-16T21:47:39: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:13] online
+2020-10-16T21:47:39: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:14] online
+2020-10-16T21:47:39: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:12] online
+2020-10-16T21:47:39: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:15] online
+2020-10-16T21:47:39: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:13] online
+2020-10-16T21:47:39: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:16] online
+2020-10-16T21:47:39: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:14] online
+2020-10-16T21:47:39: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:17] online
+2020-10-16T21:47:39: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:12] online
+2020-10-16T21:47:39: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:15] online
+2020-10-16T21:47:39: PM2 log: App [AppName:18] online
+2020-10-16T21:47:39: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:13] online
+2020-10-16T21:47:39: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:16] online
+2020-10-16T21:47:39: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:19] online
+2020-10-16T21:47:39: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App [AppName:17] online
+2020-10-16T21:47:39: PM2 log: App [AppName:14] online
+2020-10-16T21:47:39: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:39: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:39: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:39: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:12] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:15] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:13] online
+2020-10-16T21:47:40: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:18] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:40: PM2 error: Error: No matching pid found
+2020-10-16T21:47:40: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:16] online
+2020-10-16T21:47:40: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:19] online
+2020-10-16T21:47:40: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:14] online
+2020-10-16T21:47:40: PM2 log: App [AppName:17] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:12] online
+2020-10-16T21:47:40: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:40: PM2 error: Error: No matching pid found
+2020-10-16T21:47:40: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:15] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:18] online
+2020-10-16T21:47:40: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:13] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:16] online
+2020-10-16T21:47:40: PM2 log: App [AppName:19] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:17] online
+2020-10-16T21:47:40: PM2 log: App [AppName:14] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:12] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 error: Error caught while calling pidusage
+2020-10-16T21:47:40: PM2 error: Error: No matching pid found
+2020-10-16T21:47:40: PM2 log: App [AppName:15] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:18] online
+2020-10-16T21:47:40: PM2 log: App [AppName:13] online
+2020-10-16T21:47:40: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:16] online
+2020-10-16T21:47:40: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:19] online
+2020-10-16T21:47:40: PM2 log: App [AppName:17] online
+2020-10-16T21:47:40: PM2 log: App [AppName:14] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:12] online
+2020-10-16T21:47:40: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:15] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:13] online
+2020-10-16T21:47:40: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:18] online
+2020-10-16T21:47:40: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:40: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:40: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:40: PM2 log: App [AppName:16] online
+2020-10-16T21:47:41: PM2 log: App [AppName:19] online
+2020-10-16T21:47:41: PM2 log: App [AppName:17] online
+2020-10-16T21:47:41: PM2 log: App [AppName:14] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:41: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:12] online
+2020-10-16T21:47:41: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:15] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:13] online
+2020-10-16T21:47:41: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:18] online
+2020-10-16T21:47:41: PM2 log: App [AppName:16] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:19] online
+2020-10-16T21:47:41: PM2 log: App [AppName:17] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:14] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:12] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:15] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:13] online
+2020-10-16T21:47:41: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:18] online
+2020-10-16T21:47:41: PM2 log: App [AppName:16] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:19] online
+2020-10-16T21:47:41: PM2 log: App [AppName:17] online
+2020-10-16T21:47:41: PM2 log: App [AppName:14] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:12] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:41: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:15] online
+2020-10-16T21:47:41: PM2 log: App [AppName:13] online
+2020-10-16T21:47:41: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:18] online
+2020-10-16T21:47:41: PM2 log: App [AppName:16] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:19] online
+2020-10-16T21:47:41: PM2 log: App [AppName:17] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:14] online
+2020-10-16T21:47:41: PM2 log: App [AppName:12] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:13] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:15] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:41: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:41: PM2 log: App [AppName:18] online
+2020-10-16T21:47:41: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:41: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] online
+2020-10-16T21:47:42: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:19] online
+2020-10-16T21:47:42: PM2 log: App [AppName:17] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:14] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:12] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:13] online
+2020-10-16T21:47:42: PM2 log: App [AppName:15] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:18] online
+2020-10-16T21:47:42: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] online
+2020-10-16T21:47:42: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:19] online
+2020-10-16T21:47:42: PM2 log: App [AppName:17] online
+2020-10-16T21:47:42: PM2 log: App [AppName:14] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:12] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:13] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:15] online
+2020-10-16T21:47:42: PM2 log: App [AppName:18] online
+2020-10-16T21:47:42: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:19] online
+2020-10-16T21:47:42: PM2 log: App [AppName:17] online
+2020-10-16T21:47:42: PM2 log: App [AppName:14] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:12] online
+2020-10-16T21:47:42: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:13] online
+2020-10-16T21:47:42: PM2 log: App [AppName:15] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:18] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:16] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:19] online
+2020-10-16T21:47:42: PM2 log: App [AppName:17] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:14] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:12] online
+2020-10-16T21:47:42: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:42: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:42: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:42: PM2 log: App [AppName:13] online
+2020-10-16T21:47:42: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:15] online
+2020-10-16T21:47:43: PM2 log: App [AppName:18] online
+2020-10-16T21:47:43: PM2 log: App [AppName:16] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:12] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:19] online
+2020-10-16T21:47:43: PM2 log: App [AppName:17] online
+2020-10-16T21:47:43: PM2 log: App [AppName:14] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:13] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:43: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:12] online
+2020-10-16T21:47:43: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:13] online
+2020-10-16T21:47:43: PM2 log: App [AppName:15] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:14] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:18] online
+2020-10-16T21:47:43: PM2 log: App [AppName:16] online
+2020-10-16T21:47:43: PM2 log: App [AppName:19] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:12 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:12] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App [AppName:17] online
+2020-10-16T21:47:43: PM2 log: App [AppName:14] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:13 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:13] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:15] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:16] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:43: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App [AppName:15] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:17] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:14 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:18] online
+2020-10-16T21:47:43: PM2 log: App [AppName:14] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App [AppName:16] online
+2020-10-16T21:47:43: PM2 log: App [AppName:19] online
+2020-10-16T21:47:43: PM2 log: App [AppName:17] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:15 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:15] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:18] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:16 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:16] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: App [AppName:19] starting in -cluster mode-
+2020-10-16T21:47:43: PM2 log: App name:AppName id:17 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:17] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App [AppName:18] online
+2020-10-16T21:47:43: PM2 log: App [AppName:19] online
+2020-10-16T21:47:43: PM2 log: App name:AppName id:18 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:18] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:43: PM2 log: App name:AppName id:19 disconnected
+2020-10-16T21:47:43: PM2 log: App [AppName:19] exited with code [0] via signal [SIGINT]
+2020-10-16T21:47:43: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:47:59: PM2 log: Stopping app:my-app-name id:0
+2020-10-16T21:47:59: PM2 error: app=my-app-name id=0 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:my-app-name id:1
+2020-10-16T21:47:59: PM2 error: app=my-app-name id=1 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:my-app-name id:2
+2020-10-16T21:47:59: PM2 error: app=my-app-name id=2 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:my-app-name id:3
+2020-10-16T21:47:59: PM2 error: app=my-app-name id=3 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:4
+2020-10-16T21:47:59: PM2 error: app=AppName id=4 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:5
+2020-10-16T21:47:59: PM2 error: app=AppName id=5 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:6
+2020-10-16T21:47:59: PM2 error: app=AppName id=6 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:7
+2020-10-16T21:47:59: PM2 error: app=AppName id=7 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:8
+2020-10-16T21:47:59: PM2 error: app=AppName id=8 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:9
+2020-10-16T21:47:59: PM2 error: app=AppName id=9 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:10
+2020-10-16T21:47:59: PM2 error: app=AppName id=10 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:11
+2020-10-16T21:47:59: PM2 error: app=AppName id=11 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:12
+2020-10-16T21:47:59: PM2 error: app=AppName id=12 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:13
+2020-10-16T21:47:59: PM2 error: app=AppName id=13 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:14
+2020-10-16T21:47:59: PM2 error: app=AppName id=14 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:15
+2020-10-16T21:47:59: PM2 error: app=AppName id=15 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:16
+2020-10-16T21:47:59: PM2 error: app=AppName id=16 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:17
+2020-10-16T21:47:59: PM2 error: app=AppName id=17 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:18
+2020-10-16T21:47:59: PM2 error: app=AppName id=18 does not have a pid
+2020-10-16T21:47:59: PM2 log: Stopping app:AppName id:19
+2020-10-16T21:47:59: PM2 error: app=AppName id=19 does not have a pid
+2020-10-16T21:47:59: PM2 log: PM2 successfully stopped
+2020-10-16T21:49:17: PM2 log: ===============================================================================
+2020-10-16T21:49:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-10-16T21:49:17: PM2 log: Time                 : Fri Oct 16 2020 21:49:17 GMT+0100 (Western European Summer Time)
+2020-10-16T21:49:17: PM2 log: PM2 version          : 4.5.0
+2020-10-16T21:49:17: PM2 log: Node.js version      : 12.19.0
+2020-10-16T21:49:17: PM2 log: Current arch         : x64
+2020-10-16T21:49:17: PM2 log: PM2 home             : y
+2020-10-16T21:49:17: PM2 log: PM2 PID file         : C:\Users\Video\projectos\comparador_nextjs\y\pm2.pid
+2020-10-16T21:49:17: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2020-10-16T21:49:17: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2020-10-16T21:49:17: PM2 log: Application log path : C:\Users\Video\projectos\comparador_nextjs\y\logs
+2020-10-16T21:49:17: PM2 log: Worker Interval      : 30000
+2020-10-16T21:49:17: PM2 log: Process dump file    : C:\Users\Video\projectos\comparador_nextjs\y\dump.pm2
+2020-10-16T21:49:17: PM2 log: Concurrent actions   : 2
+2020-10-16T21:49:17: PM2 log: SIGTERM timeout      : 1600
+2020-10-16T21:49:17: PM2 log: ===============================================================================
+2020-10-16T21:49:17: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:17: PM2 log: App [next:0] online
+2020-10-16T21:49:17: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:17: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:17: PM2 log: App [next:0] online
+2020-10-16T21:49:17: PM2 error: Error caught while calling pidusage
+2020-10-16T21:49:17: PM2 error: Error: No matching pid found
+2020-10-16T21:49:17: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:17: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:17: PM2 log: App [next:0] online
+2020-10-16T21:49:17: PM2 error: Error caught while calling pidusage
+2020-10-16T21:49:17: PM2 error: Error: No matching pid found
+2020-10-16T21:49:17: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:17: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:17: PM2 log: App [next:0] online
+2020-10-16T21:49:17: PM2 error: Error caught while calling pidusage
+2020-10-16T21:49:17: PM2 error: Error: No matching pid found
+2020-10-16T21:49:17: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:17: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:17: PM2 log: App [next:0] online
+2020-10-16T21:49:17: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:17: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:17: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:18: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:18: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:18: PM2 log: App [next:0] online
+2020-10-16T21:49:19: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:19: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:19: PM2 log: App [next:0] online
+2020-10-16T21:49:19: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:19: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:19: PM2 log: App [next:0] online
+2020-10-16T21:49:19: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:19: PM2 log: App [next:0] starting in -fork mode-
+2020-10-16T21:49:19: PM2 log: App [next:0] online
+2020-10-16T21:49:19: PM2 log: App [next:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:49:19: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:21: PM2 error: Error caught while calling pidusage
+2020-10-16T21:52:21: PM2 error: Error: No matching pid found
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:21: PM2 error: Error caught while calling pidusage
+2020-10-16T21:52:21: PM2 error: Error: No matching pid found
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:21: PM2 error: Error caught while calling pidusage
+2020-10-16T21:52:21: PM2 error: Error: No matching pid found
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:21: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:22: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] starting in -fork mode-
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] online
+2020-10-16T21:52:23: PM2 log: App [nextjs:1] exited with code [1] via signal [SIGINT]
+2020-10-16T21:52:23: PM2 log: Script C:\USERS\VIDEO\APPDATA\ROAMING\NPM\YARN.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T21:53:13: PM2 log: Stopping app:next id:0
+2020-10-16T21:53:13: PM2 error: app=next id=0 does not have a pid
+2020-10-16T21:53:13: PM2 log: Stopping app:nextjs id:1
+2020-10-16T21:53:13: PM2 error: app=nextjs id=1 does not have a pid
+2020-10-16T21:53:14: PM2 log: PM2 successfully stopped
+2020-10-16T21:53:16: PM2 log: ===============================================================================
+2020-10-16T21:53:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-10-16T21:53:16: PM2 log: Time                 : Fri Oct 16 2020 21:53:16 GMT+0100 (Western European Summer Time)
+2020-10-16T21:53:16: PM2 log: PM2 version          : 4.5.0
+2020-10-16T21:53:16: PM2 log: Node.js version      : 12.19.0
+2020-10-16T21:53:16: PM2 log: Current arch         : x64
+2020-10-16T21:53:16: PM2 log: PM2 home             : y
+2020-10-16T21:53:16: PM2 log: PM2 PID file         : C:\Users\Video\projectos\comparador_nextjs\y\pm2.pid
+2020-10-16T21:53:16: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2020-10-16T21:53:16: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2020-10-16T21:53:16: PM2 log: Application log path : C:\Users\Video\projectos\comparador_nextjs\y\logs
+2020-10-16T21:53:16: PM2 log: Worker Interval      : 30000
+2020-10-16T21:53:16: PM2 log: Process dump file    : C:\Users\Video\projectos\comparador_nextjs\y\dump.pm2
+2020-10-16T21:53:16: PM2 log: Concurrent actions   : 2
+2020-10-16T21:53:16: PM2 log: SIGTERM timeout      : 1600
+2020-10-16T21:53:16: PM2 log: ===============================================================================
+2020-10-16T21:56:26: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:26: PM2 log: App [yarn:0] online
+2020-10-16T21:56:26: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:26: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:26: PM2 log: App [yarn:0] online
+2020-10-16T21:56:26: PM2 error: Error caught while calling pidusage
+2020-10-16T21:56:26: PM2 error: Error: No matching pid found
+2020-10-16T21:56:26: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:26: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:26: PM2 log: App [yarn:0] online
+2020-10-16T21:56:26: PM2 error: Error caught while calling pidusage
+2020-10-16T21:56:26: PM2 error: Error: No matching pid found
+2020-10-16T21:56:26: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:26: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:26: PM2 log: App [yarn:0] online
+2020-10-16T21:56:26: PM2 error: Error caught while calling pidusage
+2020-10-16T21:56:26: PM2 error: Error: No matching pid found
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:27: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:27: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:27: PM2 log: App [yarn:0] online
+2020-10-16T21:56:28: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:28: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:28: PM2 log: App [yarn:0] online
+2020-10-16T21:56:28: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:28: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:28: PM2 log: App [yarn:0] online
+2020-10-16T21:56:28: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:28: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:28: PM2 log: App [yarn:0] online
+2020-10-16T21:56:28: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:28: PM2 log: App [yarn:0] starting in -fork mode-
+2020-10-16T21:56:28: PM2 log: App [yarn:0] online
+2020-10-16T21:56:28: PM2 log: App [yarn:0] exited with code [1] via signal [SIGINT]
+2020-10-16T21:56:28: PM2 log: Script C:\USERS\VIDEO\APPDATA\ROAMING\NPM\YARN.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T22:00:00: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:00: PM2 log: App [UI:1] online
+2020-10-16T22:00:00: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:00: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:00: PM2 log: App [UI:1] online
+2020-10-16T22:00:00: PM2 error: Error caught while calling pidusage
+2020-10-16T22:00:00: PM2 error: Error: No matching pid found
+2020-10-16T22:00:00: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:00: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:00: PM2 log: App [UI:1] online
+2020-10-16T22:00:00: PM2 error: Error caught while calling pidusage
+2020-10-16T22:00:00: PM2 error: Error: No matching pid found
+2020-10-16T22:00:00: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:00: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:00: PM2 log: App [UI:1] online
+2020-10-16T22:00:00: PM2 error: Error caught while calling pidusage
+2020-10-16T22:00:00: PM2 error: Error: No matching pid found
+2020-10-16T22:00:00: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:00: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:00: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:01: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:01: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:01: PM2 log: App [UI:1] online
+2020-10-16T22:00:02: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:02: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:02: PM2 log: App [UI:1] online
+2020-10-16T22:00:02: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:02: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:02: PM2 log: App [UI:1] online
+2020-10-16T22:00:02: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:02: PM2 log: App [UI:1] starting in -fork mode-
+2020-10-16T22:00:02: PM2 log: App [UI:1] online
+2020-10-16T22:00:02: PM2 log: App [UI:1] exited with code [1] via signal [SIGINT]
+2020-10-16T22:00:02: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2020-10-16T22:02:41: PM2 log: App [local_comparador_5057:2] starting in -fork mode-
+2020-10-16T22:02:41: PM2 log: App [local_comparador_5057:2] online
+2020-10-16T22:03:16: PM2 log: Stopping app:yarn id:0
+2020-10-16T22:03:16: PM2 error: app=yarn id=0 does not have a pid
+2020-10-16T22:03:16: PM2 log: Stopping app:UI id:1
+2020-10-16T22:03:16: PM2 error: app=UI id=1 does not have a pid
+2020-10-16T22:03:16: PM2 log: Stopping app:local_comparador_5057 id:2
+2020-10-16T22:03:17: PM2 log: App [local_comparador_5057:2] exited with code [1] via signal [SIGINT]
+2020-10-16T22:03:17: PM2 log: pid=2744 msg=process killed
+2020-10-16T22:03:17: PM2 log: PM2 successfully stopped
+2020-10-16T22:04:10: PM2 log: ===============================================================================
+2020-10-16T22:04:10: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-10-16T22:04:10: PM2 log: Time                 : Fri Oct 16 2020 22:04:10 GMT+0100 (Western European Summer Time)
+2020-10-16T22:04:10: PM2 log: PM2 version          : 4.5.0
+2020-10-16T22:04:10: PM2 log: Node.js version      : 12.19.0
+2020-10-16T22:04:10: PM2 log: Current arch         : x64
+2020-10-16T22:04:10: PM2 log: PM2 home             : y
+2020-10-16T22:04:10: PM2 log: PM2 PID file         : C:\Users\Video\projectos\comparador_nextjs\y\pm2.pid
+2020-10-16T22:04:10: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2020-10-16T22:04:10: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2020-10-16T22:04:10: PM2 log: Application log path : C:\Users\Video\projectos\comparador_nextjs\y\logs
+2020-10-16T22:04:10: PM2 log: Worker Interval      : 30000
+2020-10-16T22:04:10: PM2 log: Process dump file    : C:\Users\Video\projectos\comparador_nextjs\y\dump.pm2
+2020-10-16T22:04:10: PM2 log: Concurrent actions   : 2
+2020-10-16T22:04:10: PM2 log: SIGTERM timeout      : 1600
+2020-10-16T22:04:10: PM2 log: ===============================================================================

@@ -1,0 +1,37 @@
+{
+  "name": "landingpage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5066",
+    "build": "next build",
+    "local": "pm2 startOrRestart   process.json --only localDev_iframe_5066",
+    "start": "pm2 startOrRestart   process.json --only dev_iframe_4066",
+    "prod": "pm2 startOrRestart   process.json --only iframe_3066"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "cookie-cutter": "^0.2.0",
+    "next": "^9.5.3",
+    "next-images": "^1.6.2",
+    "pm2": "^4.5.5",
+    "react": "16.13.1",
+    "react-bootstrap": "^1.5.0",
+    "react-dom": "16.13.1",
+    "react-messenger-customer-chat": "^0.8.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack": "4.46.0"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://andre3992@bitbucket.org/leads4sales/iframe-endesapt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/leads4sales/iframe-endesapt#readme"
+}

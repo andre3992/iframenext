@@ -1,0 +1,1 @@
+warn  - You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://err.sh/next.js/non-standard-node-env

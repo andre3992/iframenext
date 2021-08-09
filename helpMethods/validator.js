@@ -1,18 +1,12 @@
-export const inputValidator = ({
-  name,
-  phoneNumber,
-  termosEcondicoes,
-  email,
-}) => {
+export const inputValidator = ({ name, phoneNumber, termosEcondicoes }) => {
   const errorMessages = {
     name: "",
     phoneNumber: "",
     termosEcondicoes: "",
-    email: "",
   };
   //nome não pode estar vazios
   if (name === "") {
-    errorMessages.name = "Rellene el nombre";
+    errorMessages.name = "Preencha o nome";
   } else {
     errorMessages.name = "";
   }
@@ -21,26 +15,17 @@ export const inputValidator = ({
 
   const phoneNumberRegex = /[6|7|8|9][0-9]{8}/;
   if (phoneNumber === "") {
-    errorMessages.phoneNumber = "Rellene el teléfono";
+    errorMessages.phoneNumber = "Preencha o telefone";
   } else if (!phoneNumberRegex.test(phoneNumber)) {
-    errorMessages.phoneNumber = "El número debe contener 9 dígitos.";
+    errorMessages.phoneNumber = "Insira um número válido";
   } else {
     errorMessages.phoneNumber = "";
   }
   //
 
-  //verificar email
-  const emailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-
-  if (!emailRegex.test(email) && email !== "") {
-    errorMessages.email = "Complete con un email válido";
-  } else {
-    errorMessages.email = "";
-  }
-
   //termos e condições têm que estar seleccionados
   if (termosEcondicoes === false) {
-    errorMessages.termosEcondicoes = "Seleccione el campo";
+    errorMessages.termosEcondicoes = "Selecione a opção";
   } else {
     errorMessages.termosEcondicoes = "";
   }

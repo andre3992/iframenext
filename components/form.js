@@ -24,7 +24,6 @@ const Form = ({ campaignAndUTMdata, formType, context }) => {
     }
   };
   const callInsertLead = (event) => {
-    setShowObrigado(true);
     setTriedToSubmit(true);
     let ErrorMessageOnSubmit = inputValidator({
       phoneNumber,
@@ -43,6 +42,7 @@ const Form = ({ campaignAndUTMdata, formType, context }) => {
         { name, phoneNumber, termosEcondicoes, formType, context },
         router
       );
+      // setShowObrigado(true);
 
       return;
     }

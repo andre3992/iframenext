@@ -10,8 +10,7 @@
         "NEXT_PUBLIC_SITE_TITLE": "local  iframe",
         "NEXT_PUBLIC_API_URL": "localhost:1999",
         "NEXT_PUBLIC_API_SECRET": "4MZxSGRw",
-        "NEXT_PUBLIC_PORT": "5066",
-        "NEXT_PUBLIC_GTM_ID": "GTM-WB6PBKB"
+        "NEXT_PUBLIC_PORT": "5066"
       }
     },
     {
@@ -24,8 +23,7 @@
         "NEXT_PUBLIC_SITE_TITLE": "iframe",
         "NEXT_PUBLIC_API_URL": "https://apidev.l4sportugal.com",
         "NEXT_PUBLIC_API_SECRET": "4MZxSGRw",
-        "NEXT_PUBLIC_PORT": "4066",
-        "NEXT_PUBLIC_GTM_ID": "GTM-WB6PBKB"
+        "NEXT_PUBLIC_PORT": "4066"
       }
     },
     {
@@ -38,8 +36,7 @@
         "NEXT_PUBLIC_SITE_TITLE": "iframe",
         "NEXT_PUBLIC_PORT": "3066",
         "NEXT_PUBLIC_API_URL": "https://api.l4sportugal.com",
-        "NEXT_PUBLIC_API_SECRET": "4MZxSGRw",
-        "NEXT_PUBLIC_GTM_ID": "GTM-WB6PBKB"
+        "NEXT_PUBLIC_API_SECRET": "4MZxSGRw"
       }
     }
   ]

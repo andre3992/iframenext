@@ -10,7 +10,6 @@ export const insertLead = (campaignData, formData, router) => {
   dataToSend.condicoes = fullData.formData.termosEcondicoes
     ? fullData.formData.termosEcondicoes
     : "";
-  dataToSend.email = fullData.formData.email ? fullData.formData.email : "";
   dataToSend.type = fullData.formData.formType
     ? fullData.formData.formType
     : "";
@@ -21,12 +20,9 @@ export const insertLead = (campaignData, formData, router) => {
   for (const utm in fullData.params) {
     dataToSend[utm] = fullData.params[utm];
   }
-  dataToSend.convcode = fullData.campaignData.defaultCampaignData.convcode
-    ? fullData.campaignData.defaultCampaignData.convcode
-    : "";
+
   dataToSend.ip = fullData.campaignData.defaultCampaignData.ip;
   dataToSend.source = fullData.campaignData.defaultCampaignData.source;
-  dataToSend.surname = fullData.campaignData.comercializador;
   dataToSend.secret = process.env.NEXT_PUBLIC_API_SECRET;
   console.log(dataToSend);
   let options = {

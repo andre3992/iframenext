@@ -13,7 +13,6 @@ class MyDocument extends Document {
           <meta charSet="UTF-8" />
         </Head>
         <body>
-        
           <Main />
           <NextScript />
         </body>

@@ -15,9 +15,9 @@ export const inputValidator = ({ name, phoneNumber, termosEcondicoes }) => {
 
   const phoneNumberRegex = /[6|7|8|9][0-9]{8}/;
   if (phoneNumber === "") {
-    errorMessages.phoneNumber = "Preencha o telefone";
+    errorMessages.phoneNumber = "Contacto introduzido não é válido";
   } else if (!phoneNumberRegex.test(phoneNumber)) {
-    errorMessages.phoneNumber = "Insira um número válido";
+    errorMessages.phoneNumber = "Contacto introduzido não é válido";
   } else {
     errorMessages.phoneNumber = "";
   }

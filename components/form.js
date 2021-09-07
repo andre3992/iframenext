@@ -12,7 +12,6 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
   const [triedToSubmit, setTriedToSubmit] = useState(false);
   const [name, setName] = useState("");
   const [phoneNumber, setPhoneNumber] = useState("");
-  const [souCliente, setSouCliente] = useState(null);
   const [termosEcondicoes, setTermosEcondicoes] = useState(false);
   const [errorMessages, setErrorMessage] = useState({});
 
@@ -31,7 +30,6 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
       phoneNumber,
       termosEcondicoes,
     });
-    setShowObrigado(true);
     event.preventDefault();
     if (
       ErrorMessageOnSubmit.phoneNumber === "" &&
@@ -42,6 +40,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
         { name, phoneNumber, termosEcondicoes, formType, context },
         router
       );
+      setShowObrigado(true);
 
       return;
     }
@@ -72,7 +71,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
             <div className="textTop">Quer aderir à Endesa?</div>
             <div className="secondTextTop">Ligamos-lhe gratuitamente!</div>
             <div className="thirdTextTop">
-              Por favor, indique os seus dados para entrarmos em contacto
+              Por favor, indique os seus dados para <br /> entrarmos em contacto
               consigo!
             </div>
           </div>
@@ -89,23 +88,20 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 maxLength="100"
                 placeholder="Nome"
                 onChange={handleInputChange}
-                className="inputClass"
+                className="inputClass margin"
               />
             </div>
+            {/*className={`banner large ${active ? "active" : ""} */}
             <div className="inputField">
-              {errorMessages && errorMessages.phoneNumber && (
-                <div className="tooltip_error" style={{ display: "block" }}>
-                  {" "}
-                  <span ng-message="required">
-                    {errorMessages.phoneNumber}
-                  </span>{" "}
-                </div>
-              )}
               <i className="icon">
                 <img src={phone} width="12px" />
               </i>
               <input
-                className="inputClass"
+                className={`inputClass ${
+                  errorMessages && errorMessages.phoneNumber
+                    ? "warning redBorder"
+                    : ""
+                } `}
                 id="formBox_telefone"
                 name="phoneNumber"
                 value={phoneNumber}
@@ -116,9 +112,21 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 pattern="[0-9]*"
                 // type="number"
               />
+              {errorMessages && errorMessages.phoneNumber && (
+                <div
+                  className={`errorMessage ${
+                    errorMessages && errorMessages.phoneNumber ? "warning" : ""
+                  } `}
+                  style={{ display: "block" }}
+                >
+                  {" "}
+                  <span ng-message="required">
+                    {errorMessages.phoneNumber}
+                  </span>{" "}
+                </div>
+              )}
             </div>
-            <div className="topText">
-              {" "}
+            <div className="topText marginTop">
               <div>Se preferir, ligue-nos grátis! </div>{" "}
               <div className="thirdTextTop">
                 Se não for cliente, ligue <span>800 110 148.</span>
@@ -128,12 +136,6 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
               </div>
             </div>
             <div className="topText">
-              {errorMessages && errorMessages.termosEcondicoes && (
-                <div className="tooltip_error" style={{ display: "block" }}>
-                  {" "}
-                  <span>{errorMessages.termosEcondicoes}</span>{" "}
-                </div>
-              )}
               <div className="round">
                 <input
                   type="checkbox"
@@ -144,9 +146,27 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 />
                 <label for="checkbox" />
                 <div className="privacidade">
-                  Li e aceito a Politica de Privacidade
+                  Li e aceito a{" "}
+                  <a
+                    href="https://endesa.pt/politica-privacidade-cookies"
+                    target="_blank"
+                    className="linkPrivacidade"
+                  >
+                    Politica de Privacidade
+                  </a>
                 </div>
-              </div>{" "}
+              </div>
+              {errorMessages && errorMessages.termosEcondicoes && (
+                <div
+                  className={`errorMessage ${
+                    errorMessages && errorMessages.phoneNumber ? "warning" : ""
+                  } `}
+                  style={{ display: "block" }}
+                >
+                  {" "}
+                  <span>{errorMessages.termosEcondicoes}</span>{" "}
+                </div>
+              )}
             </div>
             <div className="obrigatorio">
               *Campos de preenchimento obrigatório

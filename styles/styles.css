@@ -41,6 +41,7 @@ body {
   background-color: #ff0f64;
   color: white;
   font-family: "UniversBold";
+  width: 250px;
 }
 
 .btn:hover {
@@ -90,4 +91,57 @@ input {
   color: #ff4687;
   font-family: "UniversBold";
   font-size: 16px;
+}
+
+.privacidade {
+  margin-left: 5px;
+  font-size: 11px;
+}
+.obrigatorio {
+  font-size: 10px;
+  margin-bottom: 5px;
+}
+/* round checkbox*/
+.round {
+  position: relative;
+  display: flex;
+}
+
+.round label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.round label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 3px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+
+.round input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.round input[type="checkbox"]:checked + label {
+  background-color: #ff0f64;
+  border-color: #ff0f64;
+}
+
+.round input[type="checkbox"]:checked + label:after {
+  opacity: 1;
 }

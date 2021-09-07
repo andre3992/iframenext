@@ -31,7 +31,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
       phoneNumber,
       termosEcondicoes,
     });
-
+    setShowObrigado(true);
     event.preventDefault();
     if (
       ErrorMessageOnSubmit.phoneNumber === "" &&
@@ -42,7 +42,6 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
         { name, phoneNumber, termosEcondicoes, formType, context },
         router
       );
-      // setShowObrigado(true);
 
       return;
     }
@@ -111,7 +110,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 name="phoneNumber"
                 value={phoneNumber}
                 maxLength="9"
-                placeholder="Telefone"
+                placeholder="Telefone *"
                 onChange={handleInputChange}
                 inputMode="numeric"
                 pattern="[0-9]*"
@@ -128,22 +127,30 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 Se for cliente, ligue <span>800 10 10 33.</span>
               </div>
             </div>
-            <div className=" disclaimer termos-condicoes">
+            <div className="topText">
               {errorMessages && errorMessages.termosEcondicoes && (
                 <div className="tooltip_error" style={{ display: "block" }}>
                   {" "}
                   <span>{errorMessages.termosEcondicoes}</span>{" "}
                 </div>
               )}
-              <input
-                type="checkbox"
-                checked={termosEcondicoes}
-                name="termosEcondicoes"
-                onChange={handleInputChange}
-              />{" "}
-              Li e aceito a Politica de Privacidade
+              <div className="round">
+                <input
+                  type="checkbox"
+                  id="checkbox"
+                  checked={termosEcondicoes}
+                  name="termosEcondicoes"
+                  onChange={handleInputChange}
+                />
+                <label for="checkbox" />
+                <div className="privacidade">
+                  Li e aceito a Politica de Privacidade
+                </div>
+              </div>{" "}
             </div>
-            *Campos de preenchimento obrigatório
+            <div className="obrigatorio">
+              *Campos de preenchimento obrigatório
+            </div>
             <div className="formButton">
               <button onClick={callInsertLead} type="submit" className="btn">
                 {" "}

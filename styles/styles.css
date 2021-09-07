@@ -1,2 +1,93 @@
-.iframe {
+body {
+  font-family: "UniversRegular";
+}
+
+.c2cTop {
+  background-color: #ff0f64;
+  color: white;
+  font-size: 15px;
+  padding-bottom: 4px;
+}
+
+.c2cBottom {
+  background-color: #9e0c40;
+  color: white;
+  font-size: 18px;
+  padding: 3px;
+  font-weight: bold;
+}
+.c2c {
+  cursor: pointer;
+  width: 200px;
+  text-align: center;
+}
+
+.formTop {
+  background-color: #ff0f64;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-family: "UniversBold";
+}
+.formTop span {
+  float: right;
+  cursor: pointer;
+}
+.form {
+  width: 300px;
+  text-align: center;
+}
+.btn {
+  background-color: #ff0f64;
+  color: white;
+  font-family: "UniversBold";
+}
+
+.btn:hover {
+  background-color: white;
+  border: 1px solid #ff0f64;
+  color: #ff0f64;
+}
+.textTop {
+  margin-top: 15px;
+  font-family: "UniversBold";
+  font-size: 18px;
+}
+.secondTextTop {
+  color: #ff4687;
+  font-size: 14px;
+}
+.thirdTextTop {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.topText {
+  margin-left: 20%;
+  text-align: left;
+}
+i {
+  position: absolute;
+}
+.icon {
+  margin-left: 5px;
+}
+.inputClass {
+  text-align: center;
+}
+::placeholder {
+  padding-left: 25px;
+  text-align: left;
+  font-size: 12px;
+}
+
+input {
+  margin-bottom: 10px;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+.thirdTextTop span {
+  color: #ff4687;
+  font-family: "UniversBold";
+  font-size: 16px;
 }

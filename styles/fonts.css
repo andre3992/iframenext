@@ -1,34 +1,33 @@
-
-
 @font-face {
-  font-family: "Rubik-Regular";
-    src: url("../public/fonts/Rubik-Regular.ttf");  
+  font-family: "UniversRegular";
+  src: url("../public/fonts/UniversLTW01-55Roman.eot?#iefix")
+      format("embedded-opentype"),
+    url("../public/fonts/UniversLTW01-55Roman.woff") format("woff"),
+    url("../public/fonts/UniversLTW01-55Roman.ttf") format("truetype"),
+    url("../public/fonts/UniversLTW01-55Roman.svg#UniversRegular") format("svg");
   font-weight: normal;
   font-style: normal;
-}
-
-@font-face {
-  font-family: "Rubik-Medium";
-    src: url("../public/fonts/Rubik-Medium.ttf");  
-  font-weight: normal;
-  font-style: normal;
+  font-display: swap;
 }
 @font-face {
-  font-family: "Rubik-Light";
-    src: url("../public/fonts/Rubik-Light.ttf");  
-  font-weight: normal;
+  font-family: "UniversLight";
+  src: url("../public/fonts/UniversLTW01-45Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../public/fonts/UniversLTW01-45Light.woff") format("woff"),
+    url("../public/fonts/UniversLTW01-45Light.ttf") format("truetype"),
+    url("../public/fonts/UniversLTW01-45Light.svg#UniversLight") format("svg");
+  font-weight: lighter;
   font-style: normal;
+  font-display: swap;
 }
 @font-face {
-  font-family: "Rubik-Bold";
-    src: url("../public/fonts/Rubik-Bold.ttf");  
-  font-weight: normal;
+  font-family: "UniversBold";
+  src: url("../public/fonts/UniversLTW01-65Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../public/fonts/UniversLTW01-65Bold.woff") format("woff"),
+    url("../public/fonts/UniversLTW01-65Bold.ttf") format("truetype"),
+    url("../public/fonts/UniversLTW01-65Bold.svg#UniversBold") format("svg");
+  font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
-@font-face {
-  font-family: "Rubik-Black";
-    src: url("../public/fonts/Rubik-Black.ttf");  
-  font-weight: normal;
-  font-style: normal;
-}
-

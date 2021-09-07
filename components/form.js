@@ -3,8 +3,10 @@ import { insertLead } from "../controllers/postData";
 import { inputValidator } from "../helpMethods/validator";
 import { useRouter } from "next/router";
 import Obrigado from "./obrigado";
+import phone from "../public/phone.png";
+import person from "../public/person.png";
 
-const Form = ({ campaignAndUTMdata, formType, context }) => {
+const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
   const [showObrigado, setShowObrigado] = useState(false);
   const router = useRouter();
   const [triedToSubmit, setTriedToSubmit] = useState(false);
@@ -28,14 +30,12 @@ const Form = ({ campaignAndUTMdata, formType, context }) => {
     let ErrorMessageOnSubmit = inputValidator({
       phoneNumber,
       termosEcondicoes,
-      name,
     });
 
     event.preventDefault();
     if (
       ErrorMessageOnSubmit.phoneNumber === "" &&
-      ErrorMessageOnSubmit.termosEcondicoes === "" &&
-      ErrorMessageOnSubmit.name === ""
+      ErrorMessageOnSubmit.termosEcondicoes === ""
     ) {
       insertLead(
         campaignAndUTMdata,
@@ -52,41 +52,47 @@ const Form = ({ campaignAndUTMdata, formType, context }) => {
     if (triedToSubmit) {
       setErrorMessage(
         inputValidator({
-          name,
           phoneNumber,
           termosEcondicoes,
         })
       );
     }
     return () => {};
-  }, [name, phoneNumber, termosEcondicoes, triedToSubmit]);
+  }, [phoneNumber, termosEcondicoes, triedToSubmit]);
 
   return (
     <div className="iframe">
       {showObrigado ? (
         <Obrigado></Obrigado>
       ) : (
-        <div>
-          Quer aderir à Endesa
+        <div className="form">
+          <div className="formTop">
+            Endesa Portugal <span onClick={openForm}>x</span>
+          </div>
+          <div className="topText">
+            <div className="textTop">Quer aderir à Endesa?</div>
+            <div className="secondTextTop">Ligamos-lhe gratuitamente!</div>
+            <div className="thirdTextTop">
+              Por favor, indique os seus dados para entrarmos em contacto
+              consigo!
+            </div>
+          </div>
           <form method="post" name="formBox">
             <div className="inputField">
-              {errorMessages && errorMessages.name && (
-                <div className="tooltip_error" style={{ display: "block" }}>
-                  {" "}
-                  <span>{errorMessages.name}</span>{" "}
-                </div>
-              )}
+              <i className="icon">
+                <img src={person} width="12px" />
+              </i>
               <input
                 id="formBox_name"
                 value={name}
                 type="text"
                 name="name"
                 maxLength="100"
-                placeholder="Nombre"
+                placeholder="Nome"
                 onChange={handleInputChange}
+                className="inputClass"
               />
             </div>
-
             <div className="inputField">
               {errorMessages && errorMessages.phoneNumber && (
                 <div className="tooltip_error" style={{ display: "block" }}>
@@ -96,30 +102,32 @@ const Form = ({ campaignAndUTMdata, formType, context }) => {
                   </span>{" "}
                 </div>
               )}
+              <i className="icon">
+                <img src={phone} width="12px" />
+              </i>
               <input
+                className="inputClass"
                 id="formBox_telefone"
                 name="phoneNumber"
                 value={phoneNumber}
                 maxLength="9"
-                placeholder="Telefóno"
+                placeholder="Telefone"
                 onChange={handleInputChange}
                 inputMode="numeric"
                 pattern="[0-9]*"
                 // type="number"
               />
             </div>
-            {/* <div className="inputField">
-          <input
-            id="formBox_email"
-            type="text"
-            name="email"
-            value={email}
-            maxLength="100"
-            placeholder="E-mail"
-            onChange={handleInputChange}
-          />
-        </div> */}
-
+            <div className="topText">
+              {" "}
+              <div>Se preferir, ligue-nos grátis! </div>{" "}
+              <div className="thirdTextTop">
+                Se não for cliente, ligue <span>800 110 148.</span>
+              </div>{" "}
+              <div className="thirdTextTop">
+                Se for cliente, ligue <span>800 10 10 33.</span>
+              </div>
+            </div>
             <div className=" disclaimer termos-condicoes">
               {errorMessages && errorMessages.termosEcondicoes && (
                 <div className="tooltip_error" style={{ display: "block" }}>
@@ -135,14 +143,9 @@ const Form = ({ campaignAndUTMdata, formType, context }) => {
               />{" "}
               Li e aceito a Politica de Privacidade
             </div>
-
+            *Campos de preenchimento obrigatório
             <div className="formButton">
-              <button
-                onClick={callInsertLead}
-                type="submit"
-                id="enviar_form"
-                className="btn_enviar capture_event"
-              >
+              <button onClick={callInsertLead} type="submit" className="btn">
                 {" "}
                 Liguem-me gratuitamente{" "}
               </button>

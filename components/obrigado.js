@@ -1,12 +1,12 @@
 const Obrigado = () => {
   return (
     <>
-      <h1>Muito Obrigada!</h1>
-      <p>
+      <div className="obrigado">Muito Obrigada!</div>
+      <div className="obrigadoBody">
         Os seus dados foram registados.
         <br />
         Entraremos em contacto consigo o mais rápido possivel. Até já!
-      </p>
+      </div>
     </>
   );
 };

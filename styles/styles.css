@@ -68,7 +68,7 @@ body {
   margin-bottom: 10px;
 }
 .topText {
-  margin-left: 20%;
+  margin-left: 17%;
   text-align: left;
 }
 i {
@@ -114,7 +114,10 @@ input {
 }
 .obrigatorio {
   font-size: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 17%;
+  text-align: left;
 }
 /* round checkbox*/
 .round {
@@ -163,4 +166,16 @@ input {
 
 .linkPrivacidade {
   color: #ff5a0f;
+}
+.obrigado {
+  color: #ff4687;
+  font-size: 18px;
+  font-family: "UniversBold";
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.obrigadoBody {
+  margin-bottom: 20px;
+  font-family: "UniversLight";
+  color: #000222;
 }

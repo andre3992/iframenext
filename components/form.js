@@ -146,7 +146,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                     name="termosEcondicoes"
                     onChange={handleInputChange}
                   />
-                  <label for="checkbox" />
+                  <label htmlFor="checkbox" />
                   <div className="privacidade">
                     Li e aceito a{" "}
                     <a
@@ -161,7 +161,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 {errorMessages && errorMessages.termosEcondicoes && (
                   <div
                     className={`errorMessage ${
-                      errorMessages && errorMessages.phoneNumber
+                      errorMessages && errorMessages.termosEcondicoes
                         ? "warning"
                         : ""
                     } `}

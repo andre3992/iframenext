@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { defaultData } from "../config";
 import Form from "../components/form";
-import callcenter from "../public/callcenter.png";
+import callcenter from "../public/endesa-c2c-assistencia.svg";
 export default function Home() {
   const [campaignData, setCampaignData] = useState(defaultData);
   const [params, setParams] = useState(null);

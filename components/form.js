@@ -3,8 +3,8 @@ import { insertLead } from "../controllers/postData";
 import { inputValidator } from "../helpMethods/validator";
 import { useRouter } from "next/router";
 import Obrigado from "./obrigado";
-import phone from "../public/phone.png";
-import person from "../public/person.png";
+import phone from "../public/endesa-c2c-contacto.svg";
+import person from "../public/endesa-c2c-utilizador.svg";
 
 const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
   const [showObrigado, setShowObrigado] = useState(false);

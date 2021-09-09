@@ -41,7 +41,6 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
         router
       );
       setShowObrigado(true);
-
       return;
     }
   };

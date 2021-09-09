@@ -1,5 +1,5 @@
 body {
-  font-family: "UniversRegular";
+  font-family: "RoobertENEL-Regular";
 }
 
 .c2cTop {
@@ -29,7 +29,7 @@ body {
   color: white;
   text-align: center;
   padding: 10px;
-  font-family: "UniversBold";
+  font-family: "RoobertENEL-Bold";
 }
 .formTop span {
   float: right;
@@ -43,7 +43,7 @@ body {
 .btn {
   background-color: #ff0f64;
   color: white;
-  font-family: "UniversBold";
+  font-family: "RoobertENEL-Bold";
   width: 250px;
   margin-bottom: 30px;
 }
@@ -55,7 +55,7 @@ body {
 }
 .textTop {
   margin-top: 15px;
-  font-family: "UniversBold";
+  font-family: "RoobertENEL-Bold";
   font-size: 18px;
 }
 .secondTextTop {
@@ -116,7 +116,7 @@ input {
 }
 .thirdTextTop span {
   color: #ff4687;
-  font-family: "UniversBold";
+  font-family: "RoobertENEL-Bold";
   font-size: 14px;
 }
 
@@ -182,12 +182,12 @@ input {
 .obrigado {
   color: #ff4687;
   font-size: 18px;
-  font-family: "UniversBold";
+  font-family: "RoobertENEL-Bold";
   margin-top: 10px;
   margin-bottom: 10px;
 }
 .obrigadoBody {
   margin-bottom: 20px;
-  font-family: "UniversLight";
+  font-family: "RoobertENEL-Light";
   color: #000222;
 }

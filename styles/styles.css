@@ -24,6 +24,15 @@ body {
 }
 .errorMessage {
   font-size: 8px;
+  position: absolute;
+  text-align: center;
+}
+
+.marginLeft {
+  margin-left: 80px;
+}
+.marginLeft2 {
+  margin-left: 55px;
 }
 .formTop {
   background-color: #ff0f64;

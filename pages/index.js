@@ -13,7 +13,7 @@ export default function Home() {
 
   return (
     <div>
-      {!showForm && (
+      {/*{!showForm && (
         <div className="c2c" onClick={openForm}>
           <div className="c2cTop">
             <img src={callcenter} width="50px" />
@@ -22,18 +22,16 @@ export default function Home() {
           </div>
           <div className="c2cBottom"> LIGAMOS GRÁTIS!</div>
         </div>
-      )}
-      {showForm && (
-        <Form
-          campaignAndUTMdata={{
-            campaignData: campaignData,
-            params: params,
-          }}
-          formType="c2c"
-          context="c2c"
-          openForm={openForm}
-        ></Form>
-      )}{" "}
+      )*/}
+      <Form
+        campaignAndUTMdata={{
+          campaignData: campaignData,
+          params: params,
+        }}
+        formType="c2c"
+        context="c2c"
+        openForm={openForm}
+      ></Form>
     </div>
   );
 }

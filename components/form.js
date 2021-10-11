@@ -111,21 +111,15 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                   pattern="[0-9]*"
                   // type="number"
                 />
-                {errorMessages && errorMessages.phoneNumber && (
-                  <div
-                    className={`errorMessage ${
-                      errorMessages && errorMessages.phoneNumber
-                        ? "warning"
-                        : ""
-                    } `}
-                    style={{ display: "block" }}
-                  >
-                    {" "}
-                    <span ng-message="required">
-                      {errorMessages.phoneNumber}
-                    </span>{" "}
-                  </div>
-                )}
+                <div
+                  className={`errorMessage marginLeft ${
+                    errorMessages && errorMessages.phoneNumber ? "warning" : ""
+                  } `}
+                  style={{ display: "block" }}
+                >
+                  {" "}
+                  <span>{errorMessages.phoneNumber}</span>{" "}
+                </div>
               </div>
               <div className="topText marginTop">
                 <div>Se preferir, ligue-nos grátis! </div>{" "}
@@ -159,7 +153,7 @@ const Form = ({ campaignAndUTMdata, formType, context, openForm }) => {
                 </div>
                 {errorMessages && errorMessages.termosEcondicoes && (
                   <div
-                    className={`errorMessage ${
+                    className={`errorMessage marginLeft2 ${
                       errorMessages && errorMessages.termosEcondicoes
                         ? "warning"
                         : ""

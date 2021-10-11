@@ -18,6 +18,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Component {...pageProps} />
+      <script src="../helpMethods/iframeResizer.contentWindow.min.js"></script>
     </>
   );
 }

@@ -12,8 +12,10 @@ pnp
 /.next/
 /out/
 .next/
+
 # next.js build output
 .next
+
 # production
 /build
 

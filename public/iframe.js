@@ -15,18 +15,17 @@ function makeDiv() {
     "style",
     "width:200px;height:130px;border:0;scroll:hidden;position: fixed;right:0;top:400px; cursor:pointer"
   );
-  ifrm.setAttribute("src", "http://localhost:5066/c2c.png");
+  ifrm.setAttribute("src", "https://endesaiframe.l4sportugal.com/c2c.png");
   ifrm.setAttribute("onclick", "makeFrame()");
   document.body.appendChild(ifrm);
   ifrm = document.createElement("IFRAME");
   ifrm.setAttribute("id", "endesaIframe");
   ifrm.setAttribute("style", "display:none;");
   document.body.appendChild(ifrm);
-  ifrm.setAttribute("src", "http://localhost:5066");
+  ifrm.setAttribute("src", "https://endesaiframe.l4sportugal.com/");
 }
 
 function closeIframe() {
-  //document.getElementById("endesaIframe").setAttribute("style", "display:none");
   document.getElementById("endesaIframe").style.display = "none";
   document
     .getElementById("iframeImg")
@@ -38,6 +37,5 @@ function closeIframe() {
 
 window.addEventListener("message", function (e) {
   closeIframe();
-  // makeDiv();
 });
 makeDiv();
